@@ -135,4 +135,4 @@ impl Hobbies for Me {
 > #### LinkedIn: [https://www.linkedin.com/in/dhrumil-shah-bssl](https://www.linkedin.com/in/dhrumil-shah-bssl)
 > #### Playlist: [Heavy - YT Music](https://music.youtube.com/playlist?list=PLwrG7bLFxMj3E6jjzY_Wtz0NjeFMW8i06)
 
-![banner](./assets/banner-top.jpg)
+![banner](./assets/banner-bottom.jpg)
