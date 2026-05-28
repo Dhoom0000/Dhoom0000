@@ -12,7 +12,7 @@ Building in Rust, C, and Python across embedded systems, security engineering, a
 ## Projects
 
 **Absent Chroma** &nbsp; `Rust` `Bevy ECS`
-End-to-end 2D game with spatial HRTF audio for accessibility and quantum-safe encryption for state and message persistence. Sole developer.
+End-to-end 3D game with spatial HRTF audio for accessibility and quantum-safe encryption for state and message persistence. Sole developer.
 
 **User Dashboard & Database** &nbsp; `C#` `.NET` `SQL`
 Desktop application with SQL backend, delivered for a live client — user management, activity tracking, and analytics reporting.
@@ -32,6 +32,6 @@ Real-time server performance and reporting interface, prototyped from stakeholde
 
 ## Currently
 
-- Building a 2D game in Bevy ECS
+- Experimenting with IIoT security and Machine Learning
 - Experimenting with `burn-rs` for a language model
 - Practising CTFs on PicoCTF
