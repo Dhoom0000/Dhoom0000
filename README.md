@@ -8,14 +8,14 @@
 
 ### Education
 
-BEng Computer Science (2:1) · MSc Cyber Security (currently)
+BEng Computer Science · MSc Cyber Security
 
 &nbsp;
 
 ### Projects
 
 | | |
-| --- | --- |
+<!-- | --- | --- | -->
 | **Absent Chroma** | 2D game with spatial HRTF audio and quantum-safe encryption — `Rust` `Bevy ECS` |
 | **User Dashboard & Database** | Desktop app with SQL backend, delivered for a live client — `C#` `.NET` `SQL` |
 | **Server Monitoring Dashboard** | Real-time server performance interface from requirements to prototype — `Figma` `Java` |
@@ -26,7 +26,7 @@ BEng Computer Science (2:1) · MSc Cyber Security (currently)
 
 - AWS Academy Cloud Foundations
 - MATLAB Onramp · Image Processing Onramp · Computer Vision Onramp
-- Project Management — LinkedIn Learning
+- Project Management
 
 &nbsp;
 
@@ -39,7 +39,7 @@ Embedded programming · AI / ML · Game design · Philosophy · Writing · Music
 ### Currently
 
 ```rust
-> Exploring IIoT security and Machine Learning
-> Building a language model with burn-rs
+> Exploring IIoT Security and Machine Learning
+> Building a Language Model with burn-rs
 > Practising CTFs on PicoCTF
 ```
