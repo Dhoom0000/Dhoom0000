@@ -8,8 +8,7 @@
 
 ### Education
 
-BEng Computer Science (2:1) · MSc Cyber Security _(in progress)_
-Anglia Ruskin University, Cambridge
+BEng Computer Science (2:1) · MSc Cyber Security (currently)
 
 &nbsp;
 
@@ -39,7 +38,7 @@ Embedded programming · AI / ML · Game design · Philosophy · Writing · Music
 
 ### Currently
 
-```md
+```rust
 > Exploring IIoT security and Machine Learning
 > Building a language model with burn-rs
 > Practising CTFs on PicoCTF
