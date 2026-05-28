@@ -14,8 +14,8 @@ BEng Computer Science · MSc Cyber Security
 
 ### Projects
 
-| | |
-<!-- | --- | --- | -->
+<!-- | | | -->
+| --- | --- |
 | **Absent Chroma** | 2D game with spatial HRTF audio and quantum-safe encryption — `Rust` `Bevy ECS` |
 | **User Dashboard & Database** | Desktop app with SQL backend, delivered for a live client — `C#` `.NET` `SQL` |
 | **Server Monitoring Dashboard** | Real-time server performance interface from requirements to prototype — `Figma` `Java` |
