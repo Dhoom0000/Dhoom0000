@@ -1,25 +1,25 @@
-# Dhrumil Shah
+# DHRUMIL SHAH
 
-Systems · Security · Game Development
-Rust · C · Python · C# · TypeScript · Embedded Systems · Penetration Testing · Linux · Docker · AWS
+> Systems · Security · Game Development
 
----
+`Rust` `C` `Python` `C#` `TypeScript` `Embedded` `Pentesting` `Linux` `Docker` `AWS`
 
-## Projects
+&nbsp;
 
-**Absent Chroma** `Rust` `Bevy ECS`
-3D game with spatial HRTF audio and quantum-safe encryption. Sole developer.
+### Projects
 
-**User Dashboard & Database** `C#` `.NET` `SQL`
-Desktop app with SQL backend for a live client — user management, activity tracking, analytics.
+| | |
+|---|---|
+| **Absent Chroma** | 2D game with spatial HRTF audio and quantum-safe encryption — `Rust` `Bevy ECS` |
+| **User Dashboard & Database** | Desktop app with SQL backend, delivered for a live client — `C#` `.NET` `SQL` |
+| **Server Monitoring Dashboard** | Real-time server performance interface from requirements to prototype — `Figma` `Java` |
 
-**Server Monitoring Dashboard** `Figma` `Java`
-Real-time server performance interface prototyped from stakeholder requirements.
+&nbsp;
 
----
+### Currently
 
-## Currently
-
-- Experimenting with IIoT security and Machine Learning
-- Experimenting with `burn-rs` for a language model
-- Practising CTFs on PicoCTF
+```
+> Exploring IIoT security and Machine Learning
+> Building a language model with burn-rs
+> Practising CTFs on PicoCTF
+```
