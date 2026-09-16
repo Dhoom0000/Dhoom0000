@@ -1,6 +1,6 @@
-# DHRUMIL SHAH
+# DHRUMIL SHAH 🍪
 
-> Systems • Security • Software
+> Systems Engineering • Cyber Security • Software Development
 
 ## Personal Projects
 
@@ -24,7 +24,11 @@
 
   `Rust` `TOML`
 
-## M.Sc. Cyber Security
+- **Raspberry Pi 5 64-bit micro-kernel**
+
+  `Rust` `Asm` `Linker Script`
+
+## M.Sc. Cyber Security (Enrolled)
 
 - **Server Pentesting**
 
