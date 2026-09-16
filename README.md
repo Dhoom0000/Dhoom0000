@@ -4,6 +4,19 @@
 
 `Rust` `C` `Python` `Embedded` `Pentesting` `Linux` `AWS`
 
+## Personal Projects
+
+- **Basic Keylogger** `Rust` `Windows Internals` `I/O`
+
+- **Network Sniffer** `Npcap Library` `Tokio`
+
+- **Agentic CV Manager w/ Typst support** `Rust` `Tokio` `egui` `Rig-rs Agentic Framework` `Typst`
+
+- **Semantic Search - Furniture website** `Typescript` `Rust` `AWS S3` `AWS Lambda` `Vector Database` `API Design`
+
+- [Directory Template Automation Tool](https://github.com/Dhoom0000/cyber-template-gen) `Rust` `TOML`
+
+
 ## M.Sc. Cyber Security
 
 - **Server Pentesting** `Metasploit Framework` `SSH` `Kali Linux Tools`
@@ -41,18 +54,6 @@
 - [Project Management](https://www.linkedin.com/learning/certificates/6a102dc5d01eca99d658a6128295cc2ec9c259ed17b6217fdbce74d918b035dd)
 
 - **Enterprising Fundamentals**
-
-## Personal Projects
-
-- **Basic Keylogger** `Rust` `Windows Internals` `I/O`
-
-- **Network Sniffer** `Npcap Library` `Tokio`
-
-- **Agentic CV Manager w/ Typst support** `Rust` `Tokio` `egui` `Rig-rs Agentic Framework` `Typst`
-
-- **Semantic Search - Furniture website** `Typescript` `Rust` `AWS S3` `AWS Lambda` `Vector Database` `API Design`
-
-- [Directory Template Automation Tool](https://github.com/Dhoom0000/cyber-template-gen) `Rust` `TOML`
 
 ## Currently
 
