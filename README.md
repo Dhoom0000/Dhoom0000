@@ -2,44 +2,71 @@
 
 > Systems • Security • Software
 
-`Rust` `C` `Python` `Embedded` `Pentesting` `Linux` `AWS`
-
 ## Personal Projects
 
-- **Basic Keylogger** `Rust` `Windows Internals` `I/O`
+- **Basic Keylogger**
 
-- **Network Sniffer** `Npcap Library` `Tokio`
+  `Rust` `Windows Internals` `I/O`
 
-- **Agentic CV Manager w/ Typst support** `Rust` `Tokio` `egui` `Rig-rs Agentic Framework` `Typst`
+- **Network Sniffer**
 
-- **Semantic Search - Furniture website** `Typescript` `Rust` `AWS S3` `AWS Lambda` `Vector Database` `API Design`
+  `Npcap Library` `Tokio`
 
-- [Directory Template Automation Tool](https://github.com/Dhoom0000/cyber-template-gen) `Rust` `TOML`
+- **Agentic CV Manager w/ Typst support**
 
+  `Rust` `Tokio` `egui` `Rig-rs Agentic Framework` `Typst`
+
+- **Semantic Search - Furniture website**
+
+  `Typescript` `Rust` `AWS S3` `AWS Lambda` `Vector Database` `API Design`
+
+- [Directory Template Automation Tool](https://github.com/Dhoom0000/cyber-template-gen)
+
+  `Rust` `TOML`
 
 ## M.Sc. Cyber Security
 
-- **Server Pentesting** `Metasploit Framework` `SSH` `Kali Linux Tools`
+- **Server Pentesting**
 
-- **OWASP Juice Shop** `OWASP Top 10` `Web Application Security`
+  `Metasploit Framework` `SSH` `Kali Linux Tools`
+
+- **OWASP Juice Shop**
+
+  `OWASP Top 10` `Web Application Security`
 
 ## B.Eng. Computer Science (2:1)
 
-- **Absent Chroma** `Bevy Engine (Rust)` `PQC Encryption` `HRTF Audio` `Procedural Generation` `Client-Server Architecture` `Networking`
+- **Absent Chroma**
 
-- [Leaf Segmentation Algorithm](https://github.com/Dhoom0000/image-proc) `MATLAB` `Image Processing`
+  `Bevy Engine (Rust)` `PQC Encryption` `HRTF Audio` `Procedural Generation` `Client-Server Architecture` `Networking`
 
-- **Embedded ADC to Memory via DMA** `C++` `Embedded Systems` `Peripherals Programming`
+- [Leaf Segmentation Algorithm](https://github.com/Dhoom0000/image-proc)
 
-- [Drawing Canvas App](https://github.com/Dhoom0000/grafpack-assignment) `C#` `Graphics Programming` `Data Structures`
+  `MATLAB` `Image Processing`
 
-- [Analysis Dashboard w/ RedGate](https://github.com/Dhoom0000/sql-code-analysis-dashboard) `Java` `Figma` `Access Management`
+- **Embedded ADC to Memory via DMA**
 
-- [CRM App and Database w/ Together Culture](https://github.com/Dhoom0000/C-WinForms) `C#` `SQL` `Database Management` `Admin Management`
+  `C++` `Embedded Systems` `Peripherals Programming`
 
-- [Linux and Windows Automation scripts](https://github.com/Dhoom0000/copy-scripts) `Linux Shell scripting` `Windows Batch scripting`
+- [Drawing Canvas App](https://github.com/Dhoom0000/grafpack-assignment)
 
-- [Car Sales CLI](https://github.com/Dhoom0000/Car-Sales) `C` `Logic, loops and data`
+  `C#` `Graphics Programming` `Data Structures`
+
+- [Analysis Dashboard w/ RedGate](https://github.com/Dhoom0000/sql-code-analysis-dashboard)
+
+  `Java` `Figma` `Access Management`
+
+- [CRM App and Database w/ Together Culture](https://github.com/Dhoom0000/C-WinForms)
+
+  `C#` `SQL` `Database Management` `Admin Management`
+
+- [Linux and Windows Automation scripts](https://github.com/Dhoom0000/copy-scripts)
+
+  `Linux Shell scripting` `Windows Batch scripting`
+
+- [Car Sales CLI](https://github.com/Dhoom0000/Car-Sales)
+
+  `C` `Logic, loops and data`
 
 >[!NOTE]
 > Courseworks include:
