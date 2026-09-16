@@ -1,8 +1,8 @@
-#
-
 ## DHRUMIL SHAH 🍪
 
-> Systems Engineering • Cyber Security • Software Development
+`Rust` `Tokio` `TypeScript` `AWS` `C#` `SQL` `C++` `MATLAB` `Metasploit Framework`
+
+`Systems Engineering` `Cyber Security` `Software Development`
 
 ### Personal Projects
 
